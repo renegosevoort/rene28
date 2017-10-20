@@ -1,0 +1,115 @@
+body {
+    font: 15px/1.5 arial, Helvetica, Sans-serif;
+    padding:0;
+    margin:0;
+
+    background-color:#f4f4f4;
+    background-image:url("achter.gif");
+    background-repeat:no-repeat;
+
+    background-attachment: fixed;
+    background-position: 100% 100%;
+    background-size:cover;
+    color:White;
+
+}
+title {
+	Font-style:Small-caps;
+}
+div {max-width:1000px;}
+
+nav{
+    Font-family:"times new Roman", Arial, serif;
+    font-size:20px;
+    font-style:oblique;
+    Font-weight:600;
+    font-variant:small-caps;
+
+    width:100%;
+    margin:10px;
+    text-align:center;
+
+}
+nav a{
+    display:inline-block;
+    padding:10px;
+    cursor:pointer;
+
+
+}
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:link visited {
+    color: light blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+
+}
+ul{
+    font-family:"serif",Arial;
+    Font-size:14px;
+    font-style:italic;
+    font-weight:400;
+    list-style-type:none;
+
+}
+h1{
+    Font-family:"Tohama",Arial,Serif;
+    Font-size:18px;
+    Font-style:normal;
+    Font-weight:500;
+    Font-variant:small-caps;
+}
+h2{
+    Font-family:"Tohama",Arial,Serif;
+    Font-size:18px;
+    Font-style:normal;
+    Font-weight:500;
+    Font-variant:small-caps;
+}
+table, th , td{
+
+    border: 1px solid black;
+
+    margin:8px,8px,8px,8px;
+    border-collapse:collapse;
+    padding:5px;
+    text-align:center;
+}
+th{background-color:red;}
+h3{
+    Font-family:"Tohama",Arial,Serif;
+    Font-size:18px;
+    Font-style:bold;
+    Font-weight:500;
+    Font-variant:small-caps;
+}
+h4{
+    Font-family:"Tohama",Arial,Serif;
+    Font-size:18px;
+    Font-style:normal;
+    Font-weight:500;
+    Font-variant:small-caps;
+}
+p{
+    Font-family:"courier new",Arial,Serif;
+    Font-size:12px;
+    Font-style:normal;
+    Font-weight:300;
+    Font-variant:normal;
+
+}
+footer{
+    font-family:"courier New",sans-serif,Arial;
+    Font-size:10px;
+    Font-weight:400;
+}

@@ -1,0 +1,40 @@
+body {
+    background-color:;
+    background-image:url("Op.gif");
+    background-repeat:no-repeat;
+    
+    background-attachment: fixed;
+    background-position: 100% 100%; 
+    background-size:cover;
+    color:white;
+ }
+ 
+ div {max-width:1000px;}
+ h1{
+	 Font-family:"times new Roman", Arial, serif;
+	 font-size:18px;
+	 font-style:normal;
+	 font-family:Oblique;
+	 Font-weight:800;
+	 
+ }
+ h2{
+	 Font-family:"times new Roman", Arial, serif;
+	 font-size:18px;
+	 font-style:normal;
+	 font-family:Oblique;
+	 Font-weight:800;
+ }	 
+ p { 
+     Font-family:"tohama", Arial, serif;
+	 Font-size:15px;
+	 font-style:small-caps;
+	 font-weight:500;
+	 font-variant:normal;
+	 
+ }
+ footer { 
+     font-family:"courier New",sans-serif,Arial;
+     Font-size:10px;
+     Font-weight:400;
+	 text-align:bottom ;
